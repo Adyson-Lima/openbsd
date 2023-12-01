@@ -5,4 +5,4 @@
 ##Pré-requisitos:
 - Conhecimentos em servidores Linux.
 - Conhecimentos em VirtualBox.
-### <a href="">Baixe aqui o PDF :)</a>
+### <a href="https://github.com/Adyson-Lima/openbsd/blob/main/servidores%20OpenBSD.pdf">Baixe aqui o PDF :)</a>
